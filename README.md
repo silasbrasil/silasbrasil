@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silasbrasil
-- 👀 I’m interested in microservices with Java and NodeJS
-- 🌱 I’m currently learning Java Spring Boot and NestJS
+- 👀 I’m interested in microservices with NodeJS and Nest
+- 🌱 I’m currently learning NestJS, Google Cloud Platform, Performance Profiling
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in www.linkedin.com/in/silas-brasil
 
